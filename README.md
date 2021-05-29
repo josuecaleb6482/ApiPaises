@@ -18,7 +18,7 @@ Api made whit Repository Pattern C#, for educational purposes
 ***
 SDK Ubuntu
 ```
-$ git clone https://github.com/josuecaleb6482/Juego_de_CalculoVb
+$ git clone https://github.com/josuecaleb6482/ApiPaises
 $ sudo apt-get update; \
 $ sudo apt-get install -y apt-transport-https && \
 $ sudo apt-get update && \
